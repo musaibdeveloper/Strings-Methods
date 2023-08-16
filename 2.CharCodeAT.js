@@ -9,4 +9,4 @@ console.log(store); // 77
 
 // Link : https://alpharithms.s3.amazonaws.com/assets/img/ascii-chart/ascii-table-alpharithms-scaled.jpg
 
-// 0 is at M and M ascii value is  77 
+// 0 is at M and M ascii value is  77.
