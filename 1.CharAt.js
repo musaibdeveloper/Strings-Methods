@@ -1,4 +1,4 @@
-// It gives the value by taking the index.
+// The charAt() method returns the character at the specified index in a string.
 
 // In string spaces also has value and comma also has value.
 // This entire string is based on ascii Table. 
